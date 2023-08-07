@@ -2,7 +2,7 @@
 
 ### Current Status
 
-- 🔭 I’m currently working on a ai smart prompter , which listens question and display prompts as subtitle in your machine
+- 🔭 I’m currently working on AI smart prompter - which listens voice question and display prompts as subtitle in your pc/mac
 - 🌱 I’m currently learning NeoVim,SvelteKit
 - 👯 I’m looking to collaborate on creating interesting tools
 - 💬 Ask me about Web Applications/Mobile Applications/Clojure/Javascript/Java
