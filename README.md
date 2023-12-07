@@ -1,7 +1,11 @@
-![Muthu's GitHub stats](https://github-readme-stats.vercel.app/api?username=muthuishere&show_icons=true&theme=transparent&card_width=200&hide_title=true&include_all_commits=true&layout=compact)  
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muthuishere&langs_count=12&hide=html,groovy,php,css&layout=compact&width=200px)
+<a href="https://github.com/muthuishere">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=muthuishere&show_icons=true&theme=transparent&card_width=200&hide_title=true&include_all_commits=true&layout=compact" />
+</a>
+<a href="https://github.com/muthuishere">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muthuishere&langs_count=12&hide=html,groovy,php,css&layout=compact&card_width=320" />
+</a>
 
 
 
