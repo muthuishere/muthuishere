@@ -1,4 +1,9 @@
-![Muthu's GitHub stats](https://github-readme-stats.vercel.app/api?username=muthuishere&show_icons=true&theme=transparent&card_width=200&hide_title=true&include_all_commits=true&layout=compact)   &nbsp;&nbsp;  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muthuishere&langs_count=12&hide=html,groovy,php,css&layout=compact&width=200px)
+![Muthu's GitHub stats](https://github-readme-stats.vercel.app/api?username=muthuishere&show_icons=true&theme=transparent&card_width=200&hide_title=true&include_all_commits=true&layout=compact)  
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muthuishere&langs_count=12&hide=html,groovy,php,css&layout=compact&width=200px)
+
+
 
 ### Current Status
 
