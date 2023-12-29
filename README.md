@@ -9,12 +9,6 @@
 
 
 
-### Current Status
-
-- 🔭 I’m currently working on AI smart prompter - which listens voice question and display prompts as subtitle in your pc/mac
-- 🌱 I’m currently learning NeoVim,SvelteKit
-- 💬 Ask me about Web Applications/Mobile Applications/Clojure/Javascript/Java
-
 
 **EDUCATION**
 
