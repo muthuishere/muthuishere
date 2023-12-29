@@ -9,20 +9,6 @@
 
 
 
-
-**EDUCATION**
-
-**Masters in Software Engineering** | Periyar University
-- [1999-2004]
-
----
-
-**PUBLICATIONS**
-- **Building a Full-Stack Reactive Web Application**: Comprehensive guide on developing a full-stack reactive web application, published by Oreilly - [link](https://www.oreilly.com/library/view/building-a-full-stack/10000MNLV202162/)
-- **Creating an Online Booking System Using Spring Boot and ReactJS**: A practical project guide on building an online booking system using Spring Boot and ReactJS, published by Manning - [link](https://www.manning.com/liveproject/creating-an-online-booking-system-using-spring-boot-and-reactjs)
-
----
-
 **OPEN SOURCE PROJECTS**
 - **Declarative Optional**: A Javascript library to write concise functional code - [link](https://www.npmjs.com/package/declarative-optional)
 - **Sunburst Radar Chart**: An Angular Component to draw sunburst chart - [link](https://www.npmjs.com/package/angular-sunburst-radar-chart)
@@ -32,4 +18,9 @@
 - **chatgpt-context-companion-vscode**: A VS Code extension that utilizes Open AI technology to make coding faster, smarter, and more efficient by providing AI-generated responses to customized prompts - [link](https://marketplace.visualstudio.com/items?itemName=MuthukumaranNavaneethakrishnan.chatgpt-context-companion-vscode)
 
 ---
+
+
+**PUBLICATIONS**
+- **Building a Full-Stack Reactive Web Application**: Comprehensive guide on developing a full-stack reactive web application, published by Oreilly - [link](https://www.oreilly.com/library/view/building-a-full-stack/10000MNLV202162/)
+- **Creating an Online Booking System Using Spring Boot and ReactJS**: A practical project guide on building an online booking system using Spring Boot and ReactJS, published by Manning - [link](https://www.manning.com/liveproject/creating-an-online-booking-system-using-spring-boot-and-reactjs)
 
