@@ -16,6 +16,7 @@
 - **Functional-streams**: A Python Alternative to Java Streams API - [link](https://pypi.org/project/functional-streams/)
 - **ChatGPT Context Companion**: An innovative browser extension providing AI-generated responses to user-defined prompts, enhancing browsing experience - [link](https://chrome.google.com/webstore/detail/chatgpt-context-companion/elfmpgajdjmknldbbicgpdiaalbkkioc)
 - **chatgpt-context-companion-vscode**: A VS Code extension that utilizes Open AI technology to make coding faster, smarter, and more efficient by providing AI-generated responses to customized prompts - [link](https://marketplace.visualstudio.com/items?itemName=MuthukumaranNavaneethakrishnan.chatgpt-context-companion-vscode)
+- **PresentMarkdownNow**: A tool to transform Markdown files into live presentations in your browser - [link](https://www.npmjs.com/package/present-markdown-now)
 
 ---
 
