@@ -10,10 +10,12 @@
 
 
 **OPEN SOURCE PROJECTS**
-- **Declarative Optional**: A Javascript library to write concise functional code - [link](https://www.npmjs.com/package/declarative-optional)
-- **Sunburst Radar Chart**: An Angular Component to draw sunburst chart - [link](https://www.npmjs.com/package/angular-sunburst-radar-chart)
-- **Declarative x**: A Java Library to handle exceptions in a functional way - [link](https://github.com/muthuishere/declarativex)
-- **Functional-streams**: A Python Alternative to Java Streams API - [link](https://pypi.org/project/functional-streams/)
+- **Spring Ai:** A Spring Framework build  for AI Engineering   - [GitHub Link](https://github.com/spring-projects/spring-ai)
+- **Kit-Clj:** Lightweight, modular framework for scalable web development in Clojure - [GitHub Link](https://github.com/kit-clj/kit)
+- **Declarative Optional:** JavaScript library to write concise functional code - [NPM Link](https://www.npmjs.com/package/declarative-optional)
+- **Sunburst Radar Chart:** Angular component to draw sunburst charts - [NPM Link](https://www.npmjs.com/package/angular-sunburst-radar-chart)
+- **Declarative x:** Java library to handle exceptions in a functional way - [GitHub Link](https://github.com/muthuishere/declarativex)
+- **Functional-streams:** Python alternative to Java Streams API - [PyPI Link](https://pypi.org/project/functional-streams/)
 - **ChatGPT Context Companion**: An innovative browser extension providing AI-generated responses to user-defined prompts, enhancing browsing experience - [link](https://chrome.google.com/webstore/detail/chatgpt-context-companion/elfmpgajdjmknldbbicgpdiaalbkkioc)
 - **chatgpt-context-companion-vscode**: A VS Code extension that utilizes Open AI technology to make coding faster, smarter, and more efficient by providing AI-generated responses to customized prompts - [link](https://marketplace.visualstudio.com/items?itemName=MuthukumaranNavaneethakrishnan.chatgpt-context-companion-vscode)
 - **PresentMarkdownNow**: A tool to transform Markdown files into live presentations in your browser - [link](https://www.npmjs.com/package/present-markdown-now)
