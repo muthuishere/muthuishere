@@ -24,6 +24,7 @@
 
 
 **PUBLICATIONS**
-- **Building a Full-Stack Reactive Web Application**: Comprehensive guide on developing a full-stack reactive web application, published by Oreilly - [link](https://www.oreilly.com/library/view/building-a-full-stack/10000MNLV202162/)
-- **Creating an Online Booking System Using Spring Boot and ReactJS**: A practical project guide on building an online booking system using Spring Boot and ReactJS, published by Manning - [link](https://www.manning.com/liveproject/creating-an-online-booking-system-using-spring-boot-and-reactjs)
+- **Spring AI for Organization**: [https://leanpub.com/springai/](https://leanpub.com/springai/)
+- **Building a Full-Stack Reactive Web Application**: Comprehensive guide on developing a full-stack reactive web application, published by Oreilly - [https://www.oreilly.com/library/view/building-a-full-stack/10000MNLV202162/](https://www.oreilly.com/library/view/building-a-full-stack/10000MNLV202162/)
+- **Creating an Online Booking System Using Spring Boot and ReactJS**: A practical project guide on building an online booking system using Spring Boot and ReactJS, published by Manning - [https://www.manning.com/liveproject/creating-an-online-booking-system-using-spring-boot-and-reactjs](https://www.manning.com/liveproject/creating-an-online-booking-system-using-spring-boot-and-reactjs)
 
